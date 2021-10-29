@@ -1,0 +1,28 @@
+#app {
+    margin-top: 4.5rem;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.sticky-offset {
+    top: 4.5rem;
+}
+
+.list-group-item-danger.list-group-item-action.active {
+    color: #fff;
+    background-color: #e3342f;
+    border-color: #e3342f;
+}
+
+.description-text {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.input-rounded {
+    border-radius: 1rem;
+}
