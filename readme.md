@@ -21,6 +21,13 @@ By clicking your profile name on top right of the page, you can access dropdown 
 On the dashboard page, information about your profile, question, answer, and also summary are displayed. Under the profile description, there is an edit profile button that can be clicked to access the edit profile form.
 ![Edit Profile](documentation/edit_profile.png)
 
+### 5. Home
+![Home](documentation/home.png)
+On this page, questions asked and also the answers of many accounts are displayed. To ask a question, click on the "Add Question" button on top left of the page.
+![Add Question](documentation/add_question.png)
+You can also add answers for the asked questions. By clicking the title oh the question, you will be redirected to question details page.
+![Question Details](documentation/add_answer.png)
+
 ### 9. See latest answer
 ![Latest Answer](documentation/answer.png)
 If you want to see the latest answer. You need to go to the answers page. Then, you can see the other user’s latest answer.
