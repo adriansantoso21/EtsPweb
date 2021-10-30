@@ -16,7 +16,8 @@
 ## About GonnaSolve
 GonnaSolve is a project built for the Midterm Exam of Web Programming Class C by the three of us. The purpose of makint this website, aside from the midterm exam is to create a forum where people can visit and gain information about programming, we want to make people keep on being curious about anything in life, and keep on wanting to know more. This webiste is basically a simple online *Q&A* (Question and Answer) forum that adopt between [Quora](https://quora.com) and [StackOverflow](https://stackoverflow.com) concept.
 
-### Documentation
+---
+## Documentation
 
 ### 1. Landing Page
 ![Landing](documentation/index.png)
