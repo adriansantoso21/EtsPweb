@@ -8,6 +8,19 @@ This project was builded for the Software House task. Creating simple online for
 Here, you need to input your email address and password to be logged in to GonnaSolve. There are also remember me and forgot password feature.
 ![Forgot Password](documentation/forgot_password.png)
 
+### 2. Register
+![Register](documentation/register.png)
+On this page, you can register a new account. Email and password are the main requirements here.
+
+### 3. Logout
+![Logout](documentation/logout.png)
+By clicking your profile name on top right of the page, you can access dropdown menu that contains dashboard and logout link.
+
+### 4. Dashboard
+![Dashboard](documentation/dashboard.png)
+On the dashboard page, information about your profile, question, answer, and also summary are displayed. Under the profile description, there is an edit profile button that can be clicked to access the edit profile form.
+![Edit Profile](documentation/edit_profile.png)
+
 ### 9. See latest answer
 ![Latest Answer](documentation/answer.png)
 If you want to see the latest answer. You need to go to the answers page. Then, you can see the other user’s latest answer.
